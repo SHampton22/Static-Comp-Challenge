@@ -134,12 +134,12 @@ p {
   overflow-wrap: break-word;
 }
 
-.large-text {
-  font-size: small;
-}
-
 .smaller-text {
   font-size: x-small;
+}
+
+.large-text {
+  font-size: small;
 }
 
 .attachment-count {
