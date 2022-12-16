@@ -157,33 +157,33 @@ p {
 /* --------card imgs----------*/
 
 .header1 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen-Shot-2022-12-16-10.55.07-AM.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen-Shot-2022-12-16-10.55.07-AM.png);
 }
 
 .header2 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen-Shot-fiftyone.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen-Shot-fiftyone.png);
 }
 
 .header3 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 10.53.45\ AM.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen\ Shot\ 2022-12-16\ at\ 10.53.45\ AM.png);
 }
 
 .header4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 10.49.36\ AM.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen\ Shot\ 2022-12-16\ at\ 10.49.36\ AM.png);
 }
 
 .header5 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 10.47.12\ AM.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen\ Shot\ 2022-12-16\ at\ 10.47.12\ AM.png);
 }
 
 .header6 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 12.12.56\ PM.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen\ Shot\ 2022-12-16\ at\ 12.12.56\ PM.png);
 }
 
 .header7 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 11.15.34\ AM.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen\ Shot\ 2022-12-16\ at\ 11.15.34\ AM.png);
 }
 
 .header8 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 11.35.27\ AM.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(./assets/Screen\ Shot\ 2022-12-16\ at\ 11.35.27\ AM.png);
 }
