@@ -5,15 +5,15 @@
 body {
   display: flex;
   flex-direction: column;
-  padding: 0; 
   margin: 0;
+  padding: 0; 
 }
 
 .body-header {
   background-color:  #2a2b2c;
-  height: 115px;
   display: flex;
   flex-direction: column;
+  height: 115px;
   justify-content: space-between;
   padding: 5px;
 }
@@ -26,17 +26,17 @@ body {
 }
 
 .admin-username {
-  border: none;
-  color: #3bb6ee;
   background-color: #2a2b2c;
+  border: none;
   border-radius: 5px;
+  color: #3bb6ee;
 }
 
 .site-header-bottom {
+  align-items: center;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
 }
 
 nav {
@@ -47,15 +47,15 @@ nav {
 ul {
   display: flex;
   justify-content: space-between;
-  padding-left: 15px;
   margin: 0;
+  padding-left: 15px;
   width: 100%;
 }
 
 li {
-  list-style-type: none;
   color: #949596;
   display: inline-block;
+  list-style-type: none;
   padding-left: 6px;
 }
 
@@ -80,19 +80,19 @@ main {
 }
 
 h1 {
+  color:#636465;
+  font-weight: lighter;
+  margin: 0;
   padding-top: 25px;
   padding-left: 12px;
   padding-bottom: 10px;
-  margin: 0;
-  color:#636465;
-  font-weight: lighter;
 }
 
 .card-holder {
+  align-items: stretch;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 10px;
-  align-items: stretch;
   padding: 15px;
 }
 
@@ -103,25 +103,25 @@ h1 {
 }
 
 .card-header {
-  display: flex;
-  justify-content: space-between;
   align-items: flex-start;
-  padding: 10px;
-  height: 90px;
   color: white;
+  display: flex;
+  height: 90px;
+  justify-content: space-between;
+  padding: 10px;
 }
 
 .card-png {
-  filter: invert(100%);
   fill: #babcbe;
+  filter: invert(100%);
 }
 
 .card-body {
   display: flex;
   flex-direction: column;
+  height: 170px;
   justify-content: space-between;
   padding: 20px;
-  height: 170px;
 }
 
 p {
@@ -130,8 +130,8 @@ p {
 
 .card-link {
   background-color: #f2f2f2;
-  overflow-wrap: break-word;
   padding: 5px;
+  overflow-wrap: break-word;
 }
 
 .large-text {
@@ -181,9 +181,9 @@ p {
 }
 
 .header7 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 11.15.34\ AM.png)
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 11.15.34\ AM.png);
 }
 
 .header8 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 11.35.27\ AM.png)
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3)), url(/assets/Screen\ Shot\ 2022-12-16\ at\ 11.35.27\ AM.png);
 }
